@@ -1,0 +1,37 @@
+Dataset: NPInter5
+Negative Generation Method: BalancedNegGen
+Utilized Protein Features: k-mer, 3D Structure, Distance Map 
+Utilized lncRNA Features: k-mer, Binding Motifs 
+Seeds: [50, 100, 150, 200, 250]
+
+Training, fold number 1
+
+Result Metrics for fold number:1 
+AUC: 0.988338
+Accuracy: 0.945767
+Sensitivity (Recall): 0.944863
+Specificity: 0.946672
+Precision: 0.946626
+Matthews Correlation Coefficient (MCC): 0.891535
+
+Training, fold number 2
+
+Result Metrics for fold number:2 
+AUC: 0.990173
+Accuracy: 0.949813
+Sensitivity (Recall): 0.955940
+Specificity: 0.943714
+Precision: 0.944151
+Matthews Correlation Coefficient (MCC): 0.899698
+
+Training, fold number 3
+
+Result Metrics for fold number:3 
+AUC: 0.990407
+Accuracy: 0.951140
+Sensitivity (Recall): 0.949307
+Specificity: 0.952986
+Precision: 0.953090
+Matthews Correlation Coefficient (MCC): 0.902288
+
+Training, fold number 4
