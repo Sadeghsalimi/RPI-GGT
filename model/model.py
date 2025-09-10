@@ -9,7 +9,7 @@ from torch_geometric.nn import StdAggregation
 from torch_geometric.data import HeteroData
 import copy
 import torch.nn as nn
-
+  
 class GNN(torch.nn.Module):
 
     def __init__(self, hidden_channels, aggr, aggr_kwargs=None):
