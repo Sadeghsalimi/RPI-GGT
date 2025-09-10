@@ -3,7 +3,7 @@ Negative Generation Method: BalancedNegGen
 Utilized Protein Features: k-mer, 3D Structure, Distance Map 
 Utilized lncRNA Features: k-mer, Binding Motifs 
 Seeds: [50, 100, 150, 200, 250]
-
+ 
 Training, fold number 1
 
 Result Metrics for fold number:1 
