@@ -1,6 +1,6 @@
 import torch
 import pandas as pd
-
+ 
 def datapreparation(dataset,
                 rna_kmer_dict,
                 protein_kmer_dict,
